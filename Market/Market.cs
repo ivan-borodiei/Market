@@ -118,7 +118,7 @@ namespace ConsoleApp
 
             if (price == null)
             {
-                //comment added
+                //comment added/modified
                 throw new Exception("Product price has not been found");
             }
 
