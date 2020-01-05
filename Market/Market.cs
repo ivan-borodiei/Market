@@ -5,6 +5,7 @@ using System.Linq;
 //rebase testing
 namespace ConsoleApp
 {
+    //1
     class Product
     {
         public string Name { get; set; }
