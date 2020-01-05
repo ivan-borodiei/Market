@@ -5,7 +5,7 @@ using System.Linq;
 //rebase testing with push on fea branch
 namespace ConsoleApp
 {
-    // commit 1
+    // commit 2
     class Product
     {
         public string Name { get; set; }
