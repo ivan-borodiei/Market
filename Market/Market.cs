@@ -113,6 +113,7 @@ namespace ConsoleApp
             this.priceList = priceList;
         }
 
+        //scan comment
         public void Scan(string productName)
         {
             var price = priceList.FirstOrDefault(p => p.Product?.Name == productName);
