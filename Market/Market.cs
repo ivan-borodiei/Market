@@ -118,7 +118,7 @@ namespace ConsoleApp
 
             if (price == null)
             {
-                throw new Exception("Product price has not been found");
+                throw new Exception("Product price has not been found!");
             }
 
             productList.Add(price.Product);
