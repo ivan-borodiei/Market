@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace ConsoleApp
 {
-    // commit 1
+    // commit 2
     class Product
     {
         public string Name { get; set; }
