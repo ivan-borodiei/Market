@@ -5,7 +5,7 @@ using System.Linq;
 //rebase testing with push on fea branch
 namespace ConsoleApp
 {
-    //6
+    //1
     class Product
     {
         public string Name { get; set; }
