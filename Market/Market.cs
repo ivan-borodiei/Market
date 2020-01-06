@@ -5,7 +5,7 @@ using System.Linq;
 //rebase testing
 namespace ConsoleApp
 {
-    // commit 4
+    // commit 5
     class Product
     {
         public string Name { get; set; }
