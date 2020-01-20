@@ -4,13 +4,11 @@ using System.Linq;
 
 namespace ConsoleApp
 {
-    //master add comment
     class Product
     {
         public string Name { get; set; }
     }
 
-    //fea commit changes
     class ProductPrice
     {
         public Product Product { get; set; }
@@ -20,7 +18,6 @@ namespace ConsoleApp
         public PricePolicy VolumePrice { get; set; }
     }
 
-    // fea commit another changes
     class PricePolicy
     {
         public int ItemCount { get; set; }
