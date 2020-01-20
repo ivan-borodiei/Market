@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-//rebase testing with push on fea branch
+//rebase testing with push
 namespace ConsoleApp
 {
     class Product
