@@ -4,8 +4,6 @@ using System.Linq;
 
 namespace ConsoleApp
 {
-    // comment 2.4 added
-    // commit 5
     class Product
     {
         public string Name { get; set; }
@@ -20,7 +18,7 @@ namespace ConsoleApp
         public PricePolicy VolumePrice { get; set; }
     }
 
-    //policy comment
+    //some code changes
     class PricePolicy
     {
         public int ItemCount { get; set; }
