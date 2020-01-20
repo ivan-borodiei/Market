@@ -20,6 +20,7 @@ namespace ConsoleApp
         public PricePolicy VolumePrice { get; set; }
     }
 
+    // fea commit another changes
     class PricePolicy
     {
         public int ItemCount { get; set; }
