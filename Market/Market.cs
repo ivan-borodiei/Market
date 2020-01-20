@@ -19,6 +19,7 @@ namespace ConsoleApp
         public PricePolicy VolumePrice { get; set; }
     }
 
+//feature commit
     class PricePolicy
     {
         public int ItemCount { get; set; }
