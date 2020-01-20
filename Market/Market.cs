@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+//rebase testing
 namespace ConsoleApp
 {
     class Product
