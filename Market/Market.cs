@@ -4,6 +4,7 @@ using System.Linq;
 
 namespace ConsoleApp
 {
+    //master push
     class Product
     {
         public string Name { get; set; }
