@@ -9,7 +9,7 @@ namespace ConsoleApp
     {
         public string Name { get; set; }
     }
-
+    //fea
     class ProductPrice
     {
         public Product Product { get; set; }
