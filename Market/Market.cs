@@ -5,6 +5,7 @@ using System.Linq;
 //rebase testing
 namespace ConsoleApp
 {
+    // comment 2.4 added
     // commit 5
     class Product
     {
