@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-//rebase testing with push on fea branch
 namespace ConsoleApp
 {
     class Product
@@ -19,7 +18,6 @@ namespace ConsoleApp
         public PricePolicy VolumePrice { get; set; }
     }
 
-//feature commit
     class PricePolicy
     {
         public int ItemCount { get; set; }
