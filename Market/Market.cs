@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-//rebase testing with push
 namespace ConsoleApp
 {
     class Product
@@ -113,6 +112,7 @@ namespace ConsoleApp
             this.priceList = priceList;
         }
 
+        //scan comment
         public void Scan(string productName)
         {
             var price = priceList.FirstOrDefault(p => p.Product?.Name == productName);
