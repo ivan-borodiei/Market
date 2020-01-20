@@ -4,7 +4,6 @@ using System.Linq;
 
 namespace ConsoleApp
 {
-    //master add comment
     class Product
     {
         public string Name { get; set; }
