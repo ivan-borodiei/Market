@@ -4,6 +4,7 @@ using System.Linq;
 
 namespace ConsoleApp
 {
+    // comment 2.4 added
     // commit 5
     class Product
     {
