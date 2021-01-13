@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+//
 namespace ConsoleApp
 {
-    //master_1
+    //merge_1
     class Product
     {
         public string Name { get; set; }
